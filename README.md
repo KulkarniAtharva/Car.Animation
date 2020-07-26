@@ -3,7 +3,9 @@
 
 ⚡️
 
-Published at [Car Animation](https://kulkarniatharva.github.io/Car.Animation/program.html) using GitHub Pages
+Published using GitHub Pages
+
+Click [here](https://kulkarniatharva.github.io/Car.Animation/program.html) for preview
 ### Licence
 
 ```
