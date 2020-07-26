@@ -1,5 +1,7 @@
 # Car Animation
-Car Animation developed in HTML &amp; CSS
+🚘 Car Animation developed in HTML &amp; CSS  🚗
+
+⚡️
 
 Published at [Car Animation](https://kulkarniatharva.github.io/Car.Animation/program.html) using GitHub Pages
 ### Licence
